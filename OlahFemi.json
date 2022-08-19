@@ -1,0 +1,24 @@
+{
+    "description": "This NFT is proof that I completed my Web3Bridge NFT test",
+    "external_url": "https://twitter.com/OlahFemi",
+    "image": "https://gateway.pinata.cloud/ipfs/QmfUbNWEXJkuhN4xScmgSxUZ8QGXrQhZAVyw4VB59pQksW",
+    "name": "Femi Olah",
+    "attributes": [
+      {
+        "trait_type": "Gender",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Course",
+        "value": "Web3Bridge Cohort VII"
+      },
+      {
+        "trait_type": "Token Standard",
+        "value": "ERC721"
+      },
+      {
+        "trait_type": "Date",
+        "value": "19th August, 2022"
+      }
+    ]
+  }
